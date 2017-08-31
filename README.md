@@ -9,15 +9,23 @@ A framework is an application skeleton. It requires you to approach software des
 
 
 jQuery remains the most-used JavaScript library ever created and is distributed with WordPress, ASP.NET and several other frameworks. It revolutionized client-side development by introducing CSS selector to DOM node retrieval plus chaining to apply event handlers, animations, and Ajax calls.
+
 > Pros:
+
 > ... small distribution size
+
 > ... shallow learning curve, considerable online help
+
 > ... concise syntax
+
 > ... easy to extend
+
 Cons:
+
 > ... adds a speed overhead to native APIs
-> ... less essential now that browser compatibility has improved
-usage has flat-lined
+
+> ... less essential now that browser compatibility has improved usage has flat-lined
+
 > ... some industry backlash against unnecessary use.
 
 ![alt-text](http://www.brianfajardo.com/static/media/reactjs.0068a577.svg)
@@ -30,15 +38,23 @@ React usage appears low in statistics perhaps because it’s used in application
 
 > Pros:
 > ... small, efficient, fast and flexible
+
 > ... simple component model
+
 > ... good documentation and online resources
+
 > ... server-side rendering is possible
+
 > ... currently popular and experiencing rapid growth
 
 > Cons:
+
 > ... new concepts and syntaxes to learn
+
 > ... build tools are essential
+
 > ... can require other libraries or frameworks to provide the model and controller aspects
+
 > ... can be incompatible with code and other libraries which modify the DOM
 
 ![al-text](https://www.vectorlogo.zone/logos/angular/angular-card.png)
@@ -51,11 +67,9 @@ this list. The most popular edition is version 1.x which extended HTML with two-
 Angular 1.x is still in development despite the release of version 2 (which is now version 4!) Confused? See below…
 
 >Pros:
+
 > ...a popular framework adopted by several large companies
+
 > ...a single solution to produce modern web applications
-> ...part of the “standard” MEAN stack (MongoDB, Express.JS, AngularJS, NodeJS) so many articles and tutorials are available
-Cons:
-... steeper learning curve than some alternatives
-... large code base
-... impossible to upgrade to Angular 2.x
-... despite being a Google project, Google do not appear to use it?
+
+> ...part of the “standard” MEAN stack (MongoDB, Express.JS, AngularJS, NodeJS) so many articles and tutorials are 
