@@ -36,6 +36,29 @@ Perhaps the most-talked about library of the past year, React claims to be a Jav
 
 React usage appears low in statistics perhaps because it’s used in applications rather than websites. Almost 38% of developers claim to be using the library.
 
+10 Amazing Apps that are Built using React Native 
+
+1. Facebook Ads Manager
+
+2. Bloomberg
+
+3. AirBnB
+
+4. Gyroscope
+
+5. Myntra
+
+6. UberEats
+
+7. Discord
+
+8. Instagram
+
+9. Discovery VR
+
+10. Townske
+
+
 > Pros:
 > ... small, efficient, fast and flexible
 
@@ -57,7 +80,8 @@ React usage appears low in statistics perhaps because it’s used in application
 
 > ... can be incompatible with code and other libraries which modify the DOM
 
-![al-text](https://www.vectorlogo.zone/logos/angular/angular-card.png)
+![alt-text](https://www.vectorlogo.zone/logos/angular/angular-card.png)
+![alt-text](https://i0.wp.com/pbs.twimg.com/media/C5ETnuzWcAAks8k.jpg?w=840&ssl=1)
 
 
 AngularJS 1.x
@@ -73,3 +97,22 @@ Angular 1.x is still in development despite the release of version 2 (which is n
 > ...a single solution to produce modern web applications
 
 > ...part of the “standard” MEAN stack (MongoDB, Express.JS, AngularJS, NodeJS) so many articles and tutorials are 
+
+Cons:
+
+> ... steeper learning curve than some alternatives
+
+> .... large code base
+
+> ..... impossible to upgrade to Angular 2.x
+
+> ..... despite being a Google project, Google do not appear to use it?
+
+sources: 
+
+https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+
+https://react.jsnews.io/10-amazing-mobileapps-that-are-built-using-reactnative/
+
+
+
