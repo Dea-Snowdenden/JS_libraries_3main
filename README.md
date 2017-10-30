@@ -114,5 +114,14 @@ https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 
 https://react.jsnews.io/10-amazing-mobileapps-that-are-built-using-reactnative/
 
+https://tutorialzine.com/2017/07/15-interesting-javascript-and-css-libraries-for-july-2017
+
+https://x-team.com/blog/best-react-tutorials-curated-by-x-team/
+
+https://www.andrewhfarmer.com/getting-started-tutorials/
+
+https://www.hongkiat.com/blog/angularjs-tutorials-screencast/
+
+https://tutorialzine.com/2013/05/the-best-free-books-videos-tutorials-and-more-for-learning-jquery
 
 
