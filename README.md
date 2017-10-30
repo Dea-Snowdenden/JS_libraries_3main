@@ -36,9 +36,9 @@ Perhaps the most-talked about library of the past year, React claims to be a Jav
 
 React usage appears low in statistics perhaps because it’s used in applications rather than websites. Almost 38% of developers claim to be using the library.
 
-10 Amazing Apps that are Built using React Native 
+10 Amazing Apps that are Built using React Native
 
-1. Facebook Ads Manager
+1. Facebook Ads 
 
 2. Bloomberg
 
@@ -96,7 +96,7 @@ Angular 1.x is still in development despite the release of version 2 (which is n
 
 > ...a single solution to produce modern web applications
 
-> ...part of the “standard” MEAN stack (MongoDB, Express.JS, AngularJS, NodeJS) so many articles and tutorials are 
+> ...part of the “standard” MEAN stack (MongoDB, Express.JS, AngularJS, NodeJS) so many articles and tutorials are
 
 Cons:
 
@@ -108,7 +108,7 @@ Cons:
 
 > ..... despite being a Google project, Google do not appear to use it?
 
-sources: 
+sources:
 
 https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 
@@ -123,5 +123,3 @@ https://www.andrewhfarmer.com/getting-started-tutorials/
 https://www.hongkiat.com/blog/angularjs-tutorials-screencast/
 
 https://tutorialzine.com/2013/05/the-best-free-books-videos-tutorials-and-more-for-learning-jquery
-
-
